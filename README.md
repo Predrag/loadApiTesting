@@ -39,7 +39,11 @@ nárast užívateľov za krátky čas. Pri tomto teste sa dá overiť, či jedno
 web servery, atď...).
 
 3.
-![Výsledky Load testov](report.pdf)
+- Výsledky Load testov
+
+![](reporty/report-1.png)
+![](reporty/report-2.png)
+![](reporty/report-3.png)
 
 
 
