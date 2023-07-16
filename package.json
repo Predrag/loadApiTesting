@@ -1,0 +1,10 @@
+{
+  "name": "loadApiTesting",
+  "version": "1.0.0",
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^0.45.0"
+  }
+}
