@@ -1,4 +1,7 @@
 # Záťažové testovanie aplikácie pomocou API
+
+## Spustenie testov
+- 
 ## Záťažový test Vstupná brána do aplikácie XYA:
 
 -	Aplikácie XYA a Vstupná brána sa nachádzajú na tom istom serveri, preto zámerom perf. testov je zistiť či sa môžu navzájom výkonnostne ovplyvniť.
