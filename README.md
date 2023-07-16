@@ -23,7 +23,7 @@
 - Pre koľko užívateľov je aplikácia navrhovaná a kedy sú očakávané najväčšie a najmenšie záťaže.
 - Ako často sa pripájajú užívatelia zo zahraničia (môže nastať situácia, že budú blokovaný, timout, atď)
 2.
-- V dnešnej dobe je je veľmi aktuálna téma hypotekárnych úverov, a preto som sa rozhodol vytvoriť testovacie scenáre pre API, ktoré používa
+- V dnešnej dobe je veľmi aktuálna téma hypotekárnych úverov, a preto som sa rozhodol vytvoriť testovacie scenáre pre API, ktoré používa
 Tatra Banka na výpočet hypotekárnych úverov.
 - Testovacie scenáre sú rozdelené podľa veľkosti záťaže: Smoke, Load (priemerná záťaž servera), Stress, Soak, Spike a Breakpoint testy.
 - Reálne som spúšťal len Load testy, kde som si stanovil, že v priebehu 10 minút sa pripojí na dané API 100 ľudí (reálne by to mohlo byť omnoho viac,
