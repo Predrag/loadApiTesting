@@ -1,7 +1,11 @@
 # Záťažové testovanie aplikácie pomocou API
 
 ## Spustenie testov
-- 
+- Na záťažové  testy som použil nástroj K6
+- Inštalácia podľa návodu na oficiálnej stránke [K6](https://k6.io/docs/get-started/installation/)
+- Spustenie testov
+
+` k6 run .\loadTesty.js`
 ## Záťažový test Vstupná brána do aplikácie XYA:
 
 -	Aplikácie XYA a Vstupná brána sa nachádzajú na tom istom serveri, preto zámerom perf. testov je zistiť či sa môžu navzájom výkonnostne ovplyvniť.
